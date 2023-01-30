@@ -1,10 +1,10 @@
-# mint-openbox
+# mxlinux-openbox
 
-In cinnamon mint (ubuntu):
+Install mxlinux xfce
 
 chmod +x *.sh
 
-Run ./250_Openbox.sh
+Run ./100_Openbox.sh
 
 For audacious: Go to File - Settings - Plugins - General - Status Icon
 

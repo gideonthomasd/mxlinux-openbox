@@ -4,7 +4,7 @@ Install mxlinux xfce
 
 chmod +x *.sh
 
-Run ./100_Openbox.sh
+Run ./100_Openbox.sh amd ./110_Files.sh
 
 For audacious: Go to File - Settings - Plugins - General - Status Icon
 

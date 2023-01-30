@@ -12,4 +12,6 @@ Click and change to system tray.
 
 In playlist go to 'Title Format' and change to 'Title-Artist'
 
+For nvidia: sudo ddm-mx -i nvidia  (Do ddm-mx -p to uninstall nvidia)
+
 Ctrl+Shift+t enables window manager features.  Ctrl+Shift+u undoes this.  Ctrl ] or Ctrl [ alters size.

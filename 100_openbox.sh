@@ -1,8 +1,8 @@
 #!/bin/bash
 
 sudo apt install -y openbox obconf tint2 openbox-menu feh lxappearance lxtask lxsession pcmanfm xfce4-terminal conky rofi geany picom neofetch yt-dlp parcellite audacious
-sudo apt install -y yaru-theme-gtk yaru-theme-icon i3lock-fancy
-sudo apt install -y scid stockfish
+sudo apt install -y yaru-theme-gtk yaru-theme-icon i3lock-fancy 
+sudo apt install -y scid stockfish lxpolkit dmenu
 
 #Install brave
 sudo apt install curl

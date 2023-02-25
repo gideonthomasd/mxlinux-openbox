@@ -12,6 +12,14 @@ cp terminalrc ~/.config/xfce4/terminal/terminalrc
 mkdir -p ~/.config/picom
 cp picom.conf ~/.config/picom/picom.conf
 
+mkdir -p ~/.config/alacritty
+sudo dpkg -i alacritty_0.11.0-1_amd64_bullseye.deb
+cd alacritty
+cp -r * ~/.config/alacritty
+cd ..
+
+
+
 
 
 

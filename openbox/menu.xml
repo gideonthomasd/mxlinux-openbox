@@ -15,7 +15,7 @@
         <separator />
         <item label="Terminal">
             <action name="Execute">
-                <execute>xfce4-terminal</execute>
+                <execute>alacritty</execute>
             </action>
         </item>
         <item label="Brave browser">
@@ -26,6 +26,16 @@
         <item label="File Manager">
             <action name="Execute">
                 <execute>pcmanfm</execute>
+            </action>
+        </item>
+        <item label="Steam">
+            <action name="Execute">
+                <execute>steam</execute>
+            </action>
+        </item>
+        <item label="My Programs">
+            <action name="Execute">
+                <execute>~/mymenu.sh</execute>
             </action>
         </item>
          <separator />

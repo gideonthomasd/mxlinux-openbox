@@ -4,7 +4,7 @@
 
 # terminal emulator
 super + Return
-	roxterm
+	alacritty
 
 # file launcher
 F12
@@ -12,6 +12,9 @@ F12
 
 F9
 	brave-browser
+
+super + z
+	~/mymenu.sh
 	
 super + p
 	dmenu_run -fn "Noto Sans Regular-16" -sb "#990000" -sf "#FFFF66" -p "Run: "
@@ -21,6 +24,9 @@ super + d
 	
 super + g
 	geany
+	
+super + v
+	pavucontrol
 
 super + x
 	~/log.sh

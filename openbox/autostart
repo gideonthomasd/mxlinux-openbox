@@ -1,14 +1,14 @@
-#xrandr -s 1920x1080
+xrandr -s 1920x1080
 audacious &
 tint2 -c ~/.config/tint2/dracula.tint2rc &
 lxpolkit &
 parcellite &
-blueman-applet &
+#blueman-applet &
 #picom &
 #plank &
 conky -c ~/.config/conky/sysinfo_mbcolor.conkyrc &
 #~/.config/openbox/wallpaper.sh &
 
-~/.config/openbox/kill.sh &
+#~/.config/openbox/kill.sh &
 ~/.config/zentile_linux_amd64 &
 #lxappearance &
